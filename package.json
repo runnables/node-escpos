@@ -20,7 +20,7 @@
     "usb"
   ],
   "dependencies": {
-    "usb": "*",
+    "usb": "~0.3.11",
     "iconv-lite": "*",
     "ink-docstrap": "^0.3.0-0"
   },
